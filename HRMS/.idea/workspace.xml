@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="424b9caa-213b-44bf-ae66-e233ebb6597e" name="Default Changelist" comment="" />
+    <list default="true" id="424b9caa-213b-44bf-ae66-e233ebb6597e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud/.idea/crud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HRMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HRMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employee/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employee/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +28,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Q5pS41eQCRXZnInvtyyMbrB2CH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -50,12 +69,12 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="" />
+      <option name="host" value="localhost" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -160,10 +179,39 @@
       <workItem from="1571057807837" duration="1456000" />
       <workItem from="1571118121283" duration="3443000" />
       <workItem from="1571135782099" duration="1858000" />
+      <workItem from="1571208320066" duration="1623000" />
+      <workItem from="1571218489621" duration="2635000" />
+      <workItem from="1571223840990" duration="125000" />
+      <workItem from="1571226166238" duration="638000" />
+      <workItem from="1571232688667" duration="397000" />
+      <workItem from="1571233880326" duration="417000" />
+      <workItem from="1571234652017" duration="258000" />
+      <workItem from="1571235551975" duration="289000" />
+      <workItem from="1571295320311" duration="1088000" />
+      <workItem from="1571297561666" duration="12026000" />
+      <workItem from="1571320375113" duration="69000" />
+      <workItem from="1571320956484" duration="1415000" />
+      <workItem from="1571379575677" duration="12286000" />
+      <workItem from="1571465342893" duration="1602000" />
+      <workItem from="1571475852896" duration="8646000" />
+      <workItem from="1571636835249" duration="2493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
